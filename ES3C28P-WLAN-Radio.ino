@@ -10,8 +10,8 @@
 #include "senderliste.h"
 
 // --- WLAN Zugangsdaten ---
-const char *ssid = "WLAN-580136";
-const char *password = "66199503496327545101";
+const char *ssid = "##########";
+const char *password = "##############";
 
 // --- Hardware Pins ---
 #define I2C_SDA GPIO_NUM_16
