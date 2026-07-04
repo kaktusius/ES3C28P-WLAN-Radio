@@ -38,9 +38,9 @@ Hier ist ein Foto von meinem fertigen Projekt:
 \* \*\* Equalizer:\*\* Animierte, echtzeitnahe Frequenzbänder, passend zum Takt der Musik.
 
 
+\## Steuerung (Touch)
 
-\## Steuerung (Buttons)
-
+\* Slider – Lautstärke
 
 
 \* << Back – Vorheriger Sender
