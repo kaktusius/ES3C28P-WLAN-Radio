@@ -30,6 +30,8 @@ Hier ist ein Foto von meinem fertigen Projekt:
 \* \*\* Senderliste:\*\* in der senderliste.h werden die Sendernamen und die Stream-URL eingetragen.
 
 
+\* \*\* WLAN-Symbol - ja nach Empfang ämdert sich die Farbe .
+
 
 \* \*\* Sendername:\*\* aus der senderliste.h .
 
