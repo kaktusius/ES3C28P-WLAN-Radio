@@ -13,7 +13,10 @@ Mini Wlan Radio, ESP32-S3
 Hier ist ein Foto von meinem fertigen Projekt:
 
 
+<img src="startradio.jpg" width="400">
 
+
+<img src="stopradio.jpg" width="400">
 
 
 
